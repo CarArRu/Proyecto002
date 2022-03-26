@@ -1,3 +1,9 @@
 "Adicion1"
 "Adicion2"
 "Adicion3"
+
+
+*/*/*/*/*/*/*/*/*/
+"AdicionX"
+"AdicionY"
+"AdicionZ"
